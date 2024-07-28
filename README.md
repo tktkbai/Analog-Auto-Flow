@@ -11,13 +11,13 @@ Analog-Auto-Flow (previously named **MicroFlow**) is a user-friendly and compreh
 - Matplotlib
 
 # Usage
-- **[Coming Soon]** Detailed usage instructions will be provided once the full code is released.
+**[Coming Soon]** Detailed usage instructions will be provided once the full code is released.
 
 # Example
-- **[In Progress]** Example applications and use cases are currently being developed and will be added upon completion.
+**[In Progress]** Example applications and use cases are currently being developed and will be added upon completion.
 
 # Experiments
-- **[Pending Publication]** Experimental results and analyses are awaiting publication and will be included in the repository as soon as they are available.
+**[Pending Publication]** Experimental results and analyses are awaiting publication and will be included in the repository as soon as they are available.
 
 # Cite us
-- **[Citation Details Coming Soon]** Please watch this space for citation information. We will provide the appropriate citation details once our paper has been published and the full code is available.
+**[Citation Details Coming Soon]** Please watch this space for citation information. We will provide the appropriate citation details once our paper has been published and the full code is available.
